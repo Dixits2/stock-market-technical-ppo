@@ -1,0 +1,5 @@
+gym_stocks.egg-info/PKG-INFO
+gym_stocks.egg-info/SOURCES.txt
+gym_stocks.egg-info/dependency_links.txt
+gym_stocks.egg-info/requires.txt
+gym_stocks.egg-info/top_level.txt
